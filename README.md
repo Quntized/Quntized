@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quntized
-- 👀 I’m interested in machine learning and deep learning 
-- 🌱 I’m currently learning both
+- 👀 I’m interested in deep learning and plasma physics
+- 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
