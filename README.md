@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm MD. Sajid Khan 👋
 
-<!--
-**Quntized/Quntized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Fusion plasma physics enthusiast exploring the intersection of physics, mathematics, and high-performance computing. Passionate about C++, quantum physics, and contributing to scientific open-source projects.
 
-Here are some ideas to get you started:
+## Interests
+- 🔬 Fusion Plasma Physics & Gyrokinetic Simulations
+- ⚛️ Quantum Physics
+- ➕ Mathematics
+- 💻 Modern C++ & High-Performance Computing
+- 🌍 Open Source Scientific Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open Source Contributions
+- **[gyselax/gyselalibxx](https://github.com/gyselax/gyselalibxx)** — Fixed `memory_space` type alias bug in `DerivField` ([PR #553](https://github.com/gyselax/gyselalibxx/pull/553))
+  - Plasma physics simulation library built with C++ and Kokkos
