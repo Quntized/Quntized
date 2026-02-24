@@ -11,5 +11,5 @@ Fusion plasma physics enthusiast exploring the intersection of physics, mathemat
 - 🌍 Open Source Scientific Software
 
 ## Open Source Contributions
-- **[gyselax/gyselalibxx](https://github.com/gyselax/gyselalibxx)** — Fixed `memory_space` type alias bug in `DerivField` ([PR #553](https://github.com/gyselax/gyselalibxx/pull/553))
+- **[gyselax/gyselalibxx](https://github.com/gyselax/gyselalibxx)** —  ([PR #553](https://github.com/gyselax/gyselalibxx/pull/553))
   - Plasma physics simulation library built with C++ and Kokkos
