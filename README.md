@@ -11,5 +11,5 @@ Fusion plasma physics enthusiast exploring the intersection of physics, mathemat
 - 🌍 Open Source Scientific Software
 
 ## Open Source Contributions
-- **[gyselax/gyselalibxx](https://github.com/gyselax/gyselalibxx)** —  ([PR #553](https://github.com/gyselax/gyselalibxx/pull/553))
-  - Plasma physics simulation library built with C++ and Kokkos
+  - **[gyselax/gyselalibxx](https://github.com/gyselax/gyselalibxx)** — Fixed ([PR #553](https://github.com/gyselax/gyselalibxx/pull/553)) and `DerivFieldMem`       ([PR #559](https://github.com/gyselax/gyselalibxx/pull/559))
+  - Plasma physics simulation library built with C++ and Kokkos (developed at CEA, France)
