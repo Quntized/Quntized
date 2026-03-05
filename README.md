@@ -5,7 +5,6 @@ Fusion plasma physics enthusiast exploring the intersection of physics, mathemat
 
 ## Interests
 - 🔬 Fusion Plasma Physics & Gyrokinetic Simulations
-- ⚛️ Quantum Physics
 - ➕ Mathematics
 - 💻 Modern C++ & High-Performance Computing
 - 🌍 Open Source Scientific Software
