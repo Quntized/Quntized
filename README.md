@@ -48,3 +48,7 @@ Aligned with EUROfusion Advanced Computing Hub exascale goals.
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+Repo: github.com/vn7n24fzkq/github-profile-summary-cards
+→ Fork it or add the Action to your profile repo
+→ It auto-generates cards on every push
