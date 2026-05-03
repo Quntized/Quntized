@@ -33,6 +33,9 @@ gyselalibxx · DDC · Kokkos contributor
   9. https://github.com/gyselax/gyselalibxx/pull/624
 - [DDC](https://github.com/CExA-project/ddc) - Discrete Domain
   Computation C++ library · CEA · listed in AUTHORS
+- 1. https://github.com/CExA-project/ddc/pull/1088
+  2. https://github.com/CExA-project/ddc/pull/1098 (Closed)
+  3. https://github.com/CExA-project/ddc/pull/1101 (Closed)
 - [Kokkos](https://github.com/kokkos/kokkos) - HPC performance
   portability · Sandia National Labs/DOE · active contributor
 
