@@ -21,6 +21,7 @@ gyselalibxx · DDC · Kokkos contributor
 
 - [gyselalibxx](https://github.com/gyselax/gyselalibxx) — gyrokinetic
   plasma simulation · EUROfusion/CEA · listed in AUTHORS
+  PR : https://github.com/gyselax/gyselalibxx/issues/552
 - [DDC](https://github.com/CExA-project/ddc) — Discrete Domain
   Computation C++ library · CEA · listed in AUTHORS
 - [Kokkos](https://github.com/kokkos/kokkos) — HPC performance
