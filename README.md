@@ -2,7 +2,6 @@
 
 Nuclear Engineering @ University of Dhaka  
 Computational sector enthusiast - HPC enthusiast 
-gyselalibxx · DDC · Kokkos contributor.
 
 ---
 
