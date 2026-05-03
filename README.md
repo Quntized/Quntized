@@ -38,6 +38,10 @@ gyselalibxx · DDC · Kokkos contributor
   3. https://github.com/CExA-project/ddc/pull/1101 (Closed)
 - [Kokkos](https://github.com/kokkos/kokkos) - HPC performance
   portability · Sandia National Labs/DOE · active contributor
+- 1. https://github.com/kokkos/kokkos/pull/9085
+  2. https://github.com/kokkos/kokkos/pull/9090
+  3. https://github.com/kokkos/kokkos/pull/9096
+  4. https://github.com/kokkos/kokkos/pull/9135
 
 ---
 
