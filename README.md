@@ -7,7 +7,7 @@
 ## Past Contributions
 
 - Contributed to fusion plasma simulation codes:
-  - [gyselalibxx](https://github.com/gyselax/gyselalibxx) (EUROfusion/CEA)
+  - [gyselalibxx](https://github.com/gyselax/gyselalibxx) 
   - [DDC](https://github.com/CExA-project/ddc) (CEA)
 - Active contributor to HPC performance portability:
   - [Kokkos](https://github.com/kokkos/kokkos) (Sandia/DOE)
