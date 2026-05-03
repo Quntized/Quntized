@@ -13,3 +13,8 @@
   - [Kokkos](https://github.com/kokkos/kokkos) (Sandia/DOE)
 - Final : NS-Transformer surrogate for
   gyrokinetic plasma simulation on exascale systems
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
