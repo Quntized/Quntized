@@ -18,3 +18,33 @@
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+# Md Sajid Khan
+
+Nuclear Engineering undergraduate @ University of Dhaka
+HPC | Fusion Plasma Simulation | Exascale Computing
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Quntized&show_icons=true&theme=dark&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quntized&layout=compact&theme=dark)
+
+## Open Source Contributions
+
+- [gyselalibxx](https://github.com/gyselax/gyselalibxx) — gyrokinetic
+  plasma simulation (EUROfusion/CEA) — listed in AUTHORS
+- [DDC](https://github.com/CExA-project/ddc) — Discrete Domain
+  Computation C++ library (CEA) — listed in AUTHORS  
+- [Kokkos](https://github.com/kokkos/kokkos) — HPC performance
+  portability (Sandia National Labs/DOE) — active contributor
+
+## Research Focus
+
+Building NS-Transformer surrogate models for gyrokinetic plasma
+dynamics using DDC spline solvers + Kokkos GPU backends.
+Aligned with EUROfusion Advanced Computing Hub exascale goals.
+
+## Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
