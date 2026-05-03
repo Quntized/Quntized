@@ -1,52 +1,47 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quntized&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+# Md. Sajid Khan
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quntized&layout=compact&theme=dark&langs_count=10)
+Nuclear Engineering @ University of Dhaka  
+HPC | Fusion Plasma Simulation | Exascale Computing  
+gyselalibxx · DDC · Kokkos contributor
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Quntized&theme=dark)](https://git.io/streak-stats)
+---
 
-## Past Contributions
+## GitHub Stats
 
-- Contributed to fusion plasma simulation codes:
-  - [gyselalibxx](https://github.com/gyselax/gyselalibxx) 
-  - [DDC](https://github.com/CExA-project/ddc) (CEA)
-- Active contributor to HPC performance portability:
-  - [Kokkos](https://github.com/kokkos/kokkos) (Sandia/DOE)
-- Final : NS-Transformer surrogate for
-  gyrokinetic plasma simulation on exascale systems
+![](https://raw.githubusercontent.com/Quntized/Quntized/main/profile-summary-card-output/zone7/0-profile-details.svg)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://raw.githubusercontent.com/Quntized/Quntized/main/profile-summary-card-output/zone7/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Quntized/Quntized/main/profile-summary-card-output/zone7/2-most-commit-language.svg)
 
-# Md Sajid Khan
+![](https://raw.githubusercontent.com/Quntized/Quntized/main/profile-summary-card-output/zone7/3-stats.svg)
+![](https://raw.githubusercontent.com/Quntized/Quntized/main/profile-summary-card-output/zone7/4-productive-time.svg)
 
-Nuclear Engineering undergraduate @ University of Dhaka
-HPC | Fusion Plasma Simulation | Exascale Computing
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Quntized&show_icons=true&theme=dark&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quntized&layout=compact&theme=dark)
+---
 
 ## Open Source Contributions
 
 - [gyselalibxx](https://github.com/gyselax/gyselalibxx) — gyrokinetic
-  plasma simulation (EUROfusion/CEA) — listed in AUTHORS
+  plasma simulation · EUROfusion/CEA · listed in AUTHORS
 - [DDC](https://github.com/CExA-project/ddc) — Discrete Domain
-  Computation C++ library (CEA) — listed in AUTHORS  
+  Computation C++ library · CEA · listed in AUTHORS
 - [Kokkos](https://github.com/kokkos/kokkos) — HPC performance
-  portability (Sandia National Labs/DOE) — active contributor
+  portability · Sandia National Labs/DOE · active contributor
 
-## Research Focus
+---
 
-Building NS-Transformer surrogate models for gyrokinetic plasma
-dynamics using DDC spline solvers + Kokkos GPU backends.
+## Research
+
+Building **NS-Transformer** surrogate models for gyrokinetic plasma  
+dynamics using DDC spline solvers + Kokkos GPU backends.  
 Aligned with EUROfusion Advanced Computing Hub exascale goals.
+
+---
 
 ## Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![Kokkos](https://img.shields.io/badge/Kokkos-HPC-blue?style=flat)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
+![MPI](https://img.shields.io/badge/MPI-parallel-orange?style=flat)
