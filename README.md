@@ -19,9 +19,9 @@ Computational sector enthusiast - HPC enthusiast
 ## Open Source Contributions
 
 - [gyselalibxx](https://github.com/gyselax/gyselalibxx) - gyrokinetic
-  plasma simulation · EUROfusion/CEA · listed in AUTHORS
-  PR : 
-- 1. [https://github.com/gyselax/gyselalibxx/issues/552](https://github.com/gyselax/gyselalibxx/pull/553)
+  plasma simulation · EUROfusion/CEA · listed in AUTHORS.
+-  PR : 
+  1. [https://github.com/gyselax/gyselalibxx/issues/552](https://github.com/gyselax/gyselalibxx/pull/553)
   2. [https://github.com/gyselax/gyselalibxx/issues/558](https://github.com/gyselax/gyselalibxx/pull/559)
   3. https://github.com/gyselax/gyselalibxx/issues/562
   4. https://github.com/gyselax/gyselalibxx/pull/563
@@ -31,12 +31,14 @@ Computational sector enthusiast - HPC enthusiast
   8. https://github.com/gyselax/gyselalibxx/pull/611 (Closed)
   9. https://github.com/gyselax/gyselalibxx/pull/624
 - [DDC](https://github.com/CExA-project/ddc) - Discrete Domain
-  Computation C++ library · CEA · listed in AUTHORS
+  Computation C++ library · CEA · listed in AUTHORS.
+- PR:
 - 1. https://github.com/CExA-project/ddc/pull/1088
   2. https://github.com/CExA-project/ddc/pull/1098 (Closed)
   3. https://github.com/CExA-project/ddc/pull/1101 (Closed)
 - [Kokkos](https://github.com/kokkos/kokkos) - HPC performance
-  portability · Sandia National Labs/DOE · active contributor
+  portability · Sandia National Labs/DOE · active contributor.
+- PR: 
 - 1. https://github.com/kokkos/kokkos/pull/9085
   2. https://github.com/kokkos/kokkos/pull/9090
   3. https://github.com/kokkos/kokkos/pull/9096
