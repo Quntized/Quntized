@@ -2,8 +2,8 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day automatically
-  workflow_dispatch:        # lets you run it manually too
+    - cron: "0 0 * * *"   
+  workflow_dispatch:      
 
 jobs:
   build:
