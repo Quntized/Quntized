@@ -1,8 +1,8 @@
 # Md. Sajid Khan
 
 Nuclear Engineering @ University of Dhaka  
-HPC | Fusion Plasma Simulation | Exascale Computing  
-gyselalibxx · DDC · Kokkos contributor
+Computational sector enthusiast - HPC enthusiast 
+gyselalibxx · DDC · Kokkos contributor.
 
 ---
 
@@ -47,16 +47,14 @@ gyselalibxx · DDC · Kokkos contributor
 
 ## Research
 
-Building **NS-Transformer** surrogate models for gyrokinetic plasma  
+Currently building **NS-Transformer** surrogate models for gyrokinetic plasma  
 dynamics using DDC spline solvers + Kokkos GPU backends.  
-Aligned with EUROfusion Advanced Computing Hub exascale goals.
 
 ---
 
 ## Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Kokkos](https://img.shields.io/badge/Kokkos-HPC-blue?style=flat)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
