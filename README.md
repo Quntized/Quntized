@@ -15,7 +15,7 @@ Computational sector enthusiast — HPC enthusiast
 
 #### [gyselax/gyselalibxx](https://github.com/gyselax/gyselalibxx) - Gyrokinetic
 
-Plasma simulation $\cdot$ EUROfusion/CEA
+Plasma simulation $\cdot$ EUROfusion/CEA · listed in AUTHORS.
 
 1. [gyselalibxx/pull/552](https://github.com/gyselax/gyselalibxx/pull/553) — Fix incorrect `memory_space` type alias in `DerivField` ![Static Badge](https://img.shields.io/badge/merged-merged?style=flat)
 2. [gyselalibxx/pull/559](https://github.com/gyselax/gyselalibxx/pull/559) — Fix Incorrect `memory_space ` type_alias in `DerivFieldMem` ![Static Badge](https://img.shields.io/badge/merged-merged?style=flat)
