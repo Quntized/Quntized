@@ -42,8 +42,8 @@ Portability · Sandia National Labs/DOE · Active Contributor
 2. [kokkos/pull/9090](https://github.com/kokkos/kokkos/pull/9090) - Add bounds check to prevent OOB access in tuner dimension indexing ![Static Badge](https://img.shields.io/badge/merged-merged?style=flat)
 3. [kokkos/pull/9096](https://github.com/kokkos/kokkos/pull/9096) - Fix silent state mutation in tuning variable ID registry ![Static Badge](https://img.shields.io/badge/merged-merged?style=flat)
 4. [kokkos/pull/9135](https://github.com/kokkos/kokkos/pull/9135) - Fixed in `core/unit_test/CMakeLists.txt` where test files were being in the master `${DEVICE}_SOURCES` lists, unnecessary bloating compile times ![Static Badge](https://img.shields.io/badge/merged-merged?style=flat)
-5. [Kokkos/pull/9128](https://github.com/kokkos/kokkos/pull/9128) -Fixed in `Kokkos_CopyView.hpp` file and created a test_file for testing . Fixes the ambiguous overload in Kokkos::resize with ExecutionSpace.
-6. [Kokkos/pull/9169]([https://github.com/kokkos/kokkos/pull/9128](https://github.com/kokkos/kokkos/pull/9169)) -Fixed in `Kokkos_function.cmake` , the VARNAME-NOTFOUND - wrong variable typing as it's VAR_NAME-NOTFOUND should correct variable name show. Fixes the DKokkos_COMPILE_LAUNCHER which should check DKokkos_NVCC_WRAPPER.
+5. [Kokkos/pull/9128](https://github.com/kokkos/kokkos/pull/9128) -Fixed in `Kokkos_CopyView.hpp` file and created a test_file for testing . Fixes the ambiguous overload in Kokkos::resize with ExecutionSpace. ![Static Badge](https://img.shields.io/badge/merged-merged?style=flat)
+6. [Kokkos/pull/9169]((https://github.com/kokkos/kokkos/pull/9169)) -Fixed in `Kokkos_function.cmake` , the VARNAME-NOTFOUND - wrong variable typing as it's VAR_NAME-NOTFOUND should correct variable name show. Fixes the DKokkos_COMPILE_LAUNCHER which should check DKokkos_NVCC_WRAPPER. ![Static Badge](https://img.shields.io/badge/merged-merged?style=flat)
 
 ---
 
