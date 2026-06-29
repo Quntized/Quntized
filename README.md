@@ -55,4 +55,4 @@ Currently building **NS-Transformer** — Surrogate models for gyrokinetic plas
 
 ## Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)![Kokkos](https://img.shields.io/badge/Kokkos-HPC-blue?style=flat)![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![MPI](https://img.shields.io/badge/MPI-parallel-orange?style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)![Kokkos](https://img.shields.io/badge/Kokkos-HPC-blue?style=flat)![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)!
