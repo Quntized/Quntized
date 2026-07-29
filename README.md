@@ -7,7 +7,7 @@ Final-year Nuclear Engineering undergraduate working on **HPC, mathematics, comp
 **Currently building:** Combining Kokkos, DDC, and gyselalibxx with a Non-Stationary Transformer surrogate model - targeting exascale GPU performance for plasma kinetics simulation.
 
 **Open-source contributions:**
-- 11+ merged PRs in [kokkos/kokkos](https://github.com/kokkos/kokkos), including fixes to `DynRankView`, `resize()` overload ambiguity, and AMD architecture CMake refactoring
+- [kokkos/kokkos](https://github.com/kokkos/kokkos).
 - Named contributor in the DDC and gyselalibxx AUTHORS files
 
 **Tools & interests:** C++ · CUDA · SYCL · OpenMP · HIP · CMake · Shell · Kokkos · DDC · numerical methods · GPU computing
