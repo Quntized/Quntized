@@ -15,6 +15,6 @@ Final-year Nuclear Engineering undergraduate working on **HPC, mathematics, comp
 **Reach me:** [mdsajid-09-2021911491@ne.du.ac.bd](mailto:mdsajid-09-2021911491@ne.du.ac.bd)
 
 **Currently:** exploring HPC internals along with ddc through hands-on investigation:
-- [Kokkos_internal](https://github.com/Quntized/Kokkos_internal) - systematic tests of internal and untested Kokkos behaviors
-- [ddc_internal](https://github.com/Quntized/ddc_internal) - same approach applied to DDC
-- [Gyselalibxx-fun-playing](https://github.com/Quntized/Gyselalibxx-fun-playing) - hands-on experimentation with gyselalibxx
+- [Kokkos_wrapper](https://github.com/Quntized/Kokkos_internal) - Exploring different approaches. 
+- [ddc_adaptive_interpolation](https://github.com/Quntized/ddc_internal) - (WIP) goal is to construct adaptive interpolation. 
+- [Gyselalibxx-project](https://github.com/Quntized/Gyselalibxx-fun-playing) - (WIP) Thesis project, 5D gyrokinetic solution eventually.
